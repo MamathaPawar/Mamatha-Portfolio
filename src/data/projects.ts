@@ -11,7 +11,7 @@ const projects: IProjectItem[] = [
     // projectType: ProjectType.Personal,
     // githubUrl: "https://github.com/nixrajput/social-media-app-flutter",
     // url: "https://github.com/nixrajput/social-media-app-flutter/releases",
-    tags: ["React.js", "Redux", "Material UI","BootStrap" ,"Node jS"],
+    tags: ["React.js", "Redux", "Material UI","BootStrap" ,"Node jS "],
   },
   {
     id: "Bilvantis-Website",
